@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @finneg23
-- 👀 I’m interested in UX
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Connor Finnegan
+- 👀 I’m interested in machine learning, UX, and data
+- 🌱 I’m currently learning Vue.js, Perl
 - 💞️ I’m looking to collaborate on Beer Software?
-- 📫 How to reach me TBD
+- 📫 How to reach me: connorfinneganb@gmail.com
 
 <!---
 finneg23/finneg23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
