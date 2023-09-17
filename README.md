@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Connor Finnegan
-- 👀 I’m interested in machine learning, UX, and data
+- 👀 I’m interested in machine learning, data, and UX
 - 🌱 I’m currently learning Vue.js, Perl
 - 💞️ I’m looking to collaborate on Beer Software?
 - 📫 How to reach me: connorfinneganb@gmail.com
